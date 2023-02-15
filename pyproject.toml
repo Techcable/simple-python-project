@@ -7,7 +7,7 @@ description = "A sample Python project"
 # NOTE: asciidoc not supported
 readme = "README.md"
 
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 
 # Should be a trove classifier
 license = { text = "MIT License" }
