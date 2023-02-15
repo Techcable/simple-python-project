@@ -5,4 +5,8 @@ Sets up a basic project using setuptools + [setuptools\_scm](https://github.com/
 
 It currently uses tox for environment management.
 
+## Related projects
 Forked from https://github.com/pypa/sampleproject
+
+Other people's templates:
+- https://github.com/jaraco/skeleton
