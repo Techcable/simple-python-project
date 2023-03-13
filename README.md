@@ -1,12 +1,4 @@
-# Techcable's python project template
-Used for my python projects because python packaging is super complicated.
+# ~~Techcable's python project template~~ (_DEPRECATED_)
+**NOTE**: I now use the [cookiecutter](https://github.com/cookiecutter/cookiecutter) project to set things up.
 
-Sets up a basic project using setuptools + [setuptools\_scm](https://github.com/pypa/setuptools_scm).
-
-It currently uses tox for environment management.
-
-## Related projects
-Forked from https://github.com/pypa/sampleproject
-
-Other people's templates:
-- https://github.com/jaraco/skeleton
+That template is in a seperate repo. This one will be archived.
